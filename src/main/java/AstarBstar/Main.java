@@ -12,20 +12,11 @@ import de.learnlib.oracle.equivalence.DFAWMethodEQOracle;
 import de.learnlib.util.Experiment;
 import de.learnlib.util.statistics.SimpleProfiler;
 import net.automatalib.automata.fsa.DFA;
-import net.automatalib.automata.fsa.impl.compact.CompactDFA;
-import net.automatalib.commons.smartcollections.ArrayUtil;
-import net.automatalib.graphs.Graph;
 import net.automatalib.serialization.dot.GraphDOT;
 import net.automatalib.visualization.Visualization;
-import net.automatalib.visualization.dot.DOT;
-import net.automatalib.visualization.dot.DOTComponent;
-
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Reader;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Main {

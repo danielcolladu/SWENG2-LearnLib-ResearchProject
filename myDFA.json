@@ -1,0 +1,40 @@
+{
+  "acceptance": [
+    1,
+    0,
+    1
+  ],
+  "transitions": [
+    0,
+    2,
+    1,
+    1,
+    1,
+    2,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "initial": 0,
+  "alphabet": [
+    "a",
+    "b"
+  ],
+  "resizeFactor": 1.5,
+  "alphabetSize": 2,
+  "stateCapacity": 11,
+  "numStates": 3
+}
